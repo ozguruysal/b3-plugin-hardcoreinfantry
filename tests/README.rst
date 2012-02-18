@@ -8,4 +8,4 @@ You can to do by three different means :
 
 example :
 
-run.bat --b3path c:\big-brother-bot\
+```run.bat --b3path c:\big-brother-bot\```
